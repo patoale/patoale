@@ -111,3 +111,9 @@
     <img alt="VS Code branding logo" src="https://github.com/user-attachments/assets/e45b64bf-cc0d-463b-87af-5cc248b647a9" height="48" hspace="5">
   </picture>
 </div>
+
+## 🌱 Currently Learning
+
+- Leveling up my **Node.js** skills and diving into **Express.js**.
+- Exploring **PostgreSQL** and trying to pick between **Sequelize** or **Drizzle** — decisions, decisions... 🤔
+- Practicing with **Docker** to improve containerization.
