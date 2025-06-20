@@ -1,7 +1,14 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/3e5c3a29-44e6-4b42-9433-d115433ff673"
     alt="A breathtaking sunset over the Picos de Europa National Park, with the iconic Picu Urriellu in the distance and a German Shorthaired Pointer striking a proud silhouette in the foreground">
-</p>
+
+  <p>
+    <strong><em>Code ninja by day </em></strong>🥷🏻
+    <strong><em>, mountain explorer by weekend </em></strong>🏔️
+    <strong><em>, and 24/7 under surveillance by my velcro dog </em></strong>🐶
+    <strong><em> — glued to me like bugs on legacy code!</em></strong>
+  </p>
+</div>
 
 ## 🧠 About Me
 
