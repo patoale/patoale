@@ -34,9 +34,9 @@
 <div align="center">
   <h3>Frameworks & Libraries</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b766fd51-1d44-4878-8e02-136155788366">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3d47f178-2524-4f7c-aded-6d90fb0c8b94">
-    <img alt="Apollo GraphQL branding logo" src="https://github.com/user-attachments/assets/3d47f178-2524-4f7c-aded-6d90fb0c8b94" height="48" hspace="5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6a915a22-3749-4f1e-83d4-d6d07a497868">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1a4c11ba-fdf1-439e-a01d-87ffaee82656">
+    <img alt="Apollo GraphQL branding logo" src="https://github.com/user-attachments/assets/1a4c11ba-fdf1-439e-a01d-87ffaee82656" height="48" hspace="5">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/a2e05e3e-d43e-4bd4-9507-12b682bde606">
@@ -44,10 +44,10 @@
     <img alt="GraphQL branding logo" src="https://github.com/user-attachments/assets/a1f2a293-986d-48c1-9d15-a892506e2817" height="48" hspace="5">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f761f3de-d573-41ce-afb1-664c9bde4879">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/24201c10-e444-40e0-8f7f-f8df117996d7">
-    <img alt="NextJS branding logo" src="https://github.com/user-attachments/assets/24201c10-e444-40e0-8f7f-f8df117996d7" height="48" hspace="5">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/6629fb25-f749-43bd-b889-55d41e1e5351">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/435ae748-ec95-4550-8834-19eed974e3f7">
+    <img alt="NextJS branding logo" src="https://github.com/user-attachments/assets/435ae748-ec95-4550-8834-19eed974e3f7" height="48" hspace="5">
+  </picture>  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/83b4d537-cf05-42c8-9066-da0b0f560092">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/687cd481-321a-4a9d-81d5-724b4f970059">
@@ -59,10 +59,10 @@
     <img alt="React branding logo" src="https://github.com/user-attachments/assets/31646168-0076-44db-9db4-d02b49a7deb9" height="48" hspace="5">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/b2e24adb-f353-4ae1-844c-3a550c3c185b">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d0a867da-d6d9-4fe4-9fa0-d1103bfaecab">
-    <img alt="Styled Components branding logo" src="https://github.com/user-attachments/assets/d0a867da-d6d9-4fe4-9fa0-d1103bfaecab" height="48" hspace="5">
-  </picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/e66458c1-471c-41a8-82bd-e1a0fb746768">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5039cc34-95e7-40b7-b5df-cb4d7b11d188">
+    <img alt="Styled Components branding logo" src="https://github.com/user-attachments/assets/5039cc34-95e7-40b7-b5df-cb4d7b11d188" height="48" hspace="5">
+  </picture>  
 </div>
 
 <div align="center">
@@ -87,30 +87,32 @@
     <img alt="GitHub Actions branding logo" src="https://github.com/user-attachments/assets/921562f8-87f2-4b5d-8865-bc04d4635e2f" height="48" hspace="5">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/aa4c7a57-7ff6-4236-a814-75387294b172">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c1711cf3-58d4-4afb-b1af-c3e9a257ea57">
-    <img alt="Vercel branding logo" src="https://github.com/user-attachments/assets/c1711cf3-58d4-4afb-b1af-c3e9a257ea57" height="48" hspace="5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/760e5715-9325-49f4-81e4-eaf32996a007">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b9cc5067-cf8c-4af8-8288-8b79d7285618">
+    <img alt="Vercel branding logo" src="https://github.com/user-attachments/assets/b9cc5067-cf8c-4af8-8288-8b79d7285618" height="48" hspace="5">
   </picture>
 </div>
 
 <div align="center">
   <h3>Dev Tools</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/045c197f-9335-4593-a075-4cd872b1bc35">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9354b566-865e-4a62-8573-84087307320c">
-    <img alt="Git branding logo" src="https://github.com/user-attachments/assets/9354b566-865e-4a62-8573-84087307320c" height="48" hspace="5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d9d568fa-44a1-4239-9211-26f44a22f878">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5a47efe3-8932-400b-9acf-334e6e6976cb">
+    <img alt="Git branding logo" src="https://github.com/user-attachments/assets/5a47efe3-8932-400b-9acf-334e6e6976cb" height="48" hspace="5">
   </picture>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2c3d6552-6aeb-4bb2-a9ed-264b53449ee1">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/2a61200e-595b-4e10-b073-8417ae3abed6">
     <img alt="GitHub branding logo" src="https://github.com/user-attachments/assets/2a61200e-595b-4e10-b073-8417ae3abed6" height="48" hspace="5">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f41c539b-cf88-4f12-9458-906ea2326558">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/e45b64bf-cc0d-463b-87af-5cc248b647a9">
-    <img alt="VS Code branding logo" src="https://github.com/user-attachments/assets/e45b64bf-cc0d-463b-87af-5cc248b647a9" height="48" hspace="5">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cf204d6d-3cdb-456b-9244-e1055b1be1d7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/10d3f6b0-1128-4537-86b2-ad801834a3dc">
+    <img alt="VS Code branding logo" src="https://github.com/user-attachments/assets/10d3f6b0-1128-4537-86b2-ad801834a3dc" height="48" hspace="5">
   </picture>
 </div>
+
 
 ## 🌱 Currently Learning
 
